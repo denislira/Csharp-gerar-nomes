@@ -1,0 +1,9 @@
+d:\documentos\visual studio 2012\Projects\Sequencia-letras-a-z\Sequencia-letras-a-z\bin\Debug\Sequencia-letras-a-z.exe.config
+d:\documentos\visual studio 2012\Projects\Sequencia-letras-a-z\Sequencia-letras-a-z\bin\Debug\Sequencia-letras-a-z.exe
+d:\documentos\visual studio 2012\Projects\Sequencia-letras-a-z\Sequencia-letras-a-z\bin\Debug\Sequencia-letras-a-z.pdb
+d:\documentos\visual studio 2012\Projects\Sequencia-letras-a-z\Sequencia-letras-a-z\obj\Debug\Sequencia-letras-a-z.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2012\Projects\Sequencia-letras-a-z\Sequencia-letras-a-z\obj\Debug\Sequencia_letras_a_z.Form1.resources
+d:\documentos\visual studio 2012\Projects\Sequencia-letras-a-z\Sequencia-letras-a-z\obj\Debug\Sequencia_letras_a_z.Properties.Resources.resources
+d:\documentos\visual studio 2012\Projects\Sequencia-letras-a-z\Sequencia-letras-a-z\obj\Debug\Sequencia-letras-a-z.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2012\Projects\Sequencia-letras-a-z\Sequencia-letras-a-z\obj\Debug\Sequencia-letras-a-z.exe
+d:\documentos\visual studio 2012\Projects\Sequencia-letras-a-z\Sequencia-letras-a-z\obj\Debug\Sequencia-letras-a-z.pdb
